@@ -43,6 +43,8 @@ body {
 
 .menu-button {
 	float: right;
+	margin-top: -40px;
+	margin-right: 10px;
 }
 
 .menu-button li {
