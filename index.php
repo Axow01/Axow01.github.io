@@ -15,7 +15,8 @@
 			<li>
 				<a href="">Projects</a>
 				<a href="">Contact</a>
-				<a href="https://github.com/Axow01/Axow01.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+				<a href="">Downloads Zone</a>
+				<a href="https://github.com/Axow01/Axow01.github.io" target="_blank" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
 			</li>
 		</div>
 	</div>
