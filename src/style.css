@@ -32,3 +32,30 @@ body {
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.75);
 	box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);
 }
+
+.menu {
+	background-color: #d47b06;
+	color: white;
+	height: 70px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.menu-button {
+	float: right;
+}
+
+.menu-button li {
+	float: left;
+	list-style: none;
+}
+
+.menu-button a {
+	text-decoration: none;
+	color: white;
+}
+
+.menu h2 {
+	margin-top: -10px;
+	margin-left: 10px;
+}
